@@ -19,4 +19,8 @@ QA serves as a vigilant force throughout the software development life cycle, en
 
 High-quality software is essential for customer satisfaction, minimizing defects, fostering a positive reputation, and ensuring long-term success in a competitive market. It's not just a goal; it's a strategic necessity for meeting user expectations in the ever-evolving tech landscape.
 
+## Navigation:
+
+[QA for College Students: Getting Started](https://www.linkedin.com/pulse/qa-college-students-getting-started-crixcel-buencuchillo%3FtrackingId=7HJkGv3XQOWdkcKRMIQVew%253D%253D/?trackingId=7HJkGv3XQOWdkcKRMIQVew%3D%3D)
+
 
